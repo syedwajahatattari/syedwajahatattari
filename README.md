@@ -58,6 +58,7 @@ Currently building:
 - 🌐 Portfolio: [syedwajahatattari.vercel.app](https://syedwajahatattari.vercel.app)
 - 💼 Fiverr: [fiverr.com/shopifywebsited](https://www.fiverr.com/shopifywebsited)
 - 📸 Instagram: [@syed.wajahat.988](https://www.instagram.com/syed.wajahat.988)
+- 🎨 Behance: [behance.net/syedwajahat](https://www.behance.net/syedwajahat)
 - 📧 Email: syedwajahatattari@gmail.com
 - 💬 LinkedIn: [linkedin.com/in/syedwajahatattari](https://www.linkedin.com/in/syedwajahatattari)
 
